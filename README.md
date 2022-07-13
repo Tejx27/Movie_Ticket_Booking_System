@@ -9,8 +9,3 @@ We have Built this project in c programming for our college Mini project Purpose
 * MINGIW for gcc compiler
 * Code Runner in vs code extension.
 * C/C++ Intellsense in VS Code. 
-
-
-
-
-
